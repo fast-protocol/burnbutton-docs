@@ -31,3 +31,10 @@ The **BurnButton Token (BB)** operates as the core governance and economic drive
 * **Core Ledger:** 100% Non-Custodial Solidity Smart Contracts on BNB Chain.
 * **Networking:** Low-latency v960.0 Asynchronous Architecture utilizing high-frequency Python WebSockets for 120 FPS hardware synchronization and 0ms visual delay.
 * **Security:** EIP-55 Checksum-Synchronized State Machines with built-in transaction limits per wallet to fully neutralize industrial bot spam.
+
+## 5. Mainnet Traction & Proof of Concept
+The baseline infrastructure of the BurnButton Protocol engine is fully deployed, optimized under v1.0 (Mainnet Production) architecture, and operational in the live network environment.
+
+* **Live dApp Interface:** [https://burnbutton.xyz](https://burnbutton.xyz)
+* **Verified Mainnet MVP Contract (BNB Chain):** [`0xaE26F71BaCC4bBF0F1341e37188630dBcFb54A6B`](https://bscscan.com)
+* **Live System Analytics:** Fully synchronized real-time match round logic, wallet interaction tracking, and secure on-chain automated transaction vault routing.

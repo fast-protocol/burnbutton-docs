@@ -36,5 +36,5 @@ The **BurnButton Token (BB)** operates as the core governance and economic drive
 The baseline infrastructure of the BurnButton Protocol engine is fully deployed, optimized under v1.0 (Mainnet Production) architecture, and operational in the live network environment.
 
 * **Live dApp Interface:** [https://burnbutton.xyz](https://burnbutton.xyz)
-* **Verified Mainnet MVP Contract (BNB Chain):** [`0xaE26F71BaCC4bBF0F1341e37188630dBcFb54A6B`](https://bscscan.com)
+* **Verified Mainnet MVP Contract (BNB Chain):** [`0xaE26F71BaCC4bBF0F1341e37188630dBcFb54A6B`](https://bscscan.com/0xaE26F71BaCC4bBF0F1341e37188630dBcFb54A6B)
 * **Live System Analytics:** Fully synchronized real-time match round logic, wallet interaction tracking, and secure on-chain automated transaction vault routing.
